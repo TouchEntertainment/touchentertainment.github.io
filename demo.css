@@ -373,8 +373,8 @@ button[type="submit"]:hover {
 }
 
 .maindiv {
-	width: 70%;
-	height: 400px;
+	width:60%;
+	height: 600px;
 	position: absolute;
 	left: 50%;
 	top: 100%;
